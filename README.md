@@ -3,11 +3,11 @@
 
 <h2>Features</h2>
 <p>
-1) Search by student name
-  - Get student's course
-  - Get student's admission number
-  - Get modules taken
-  - Get GPA
+1) Search by student name <br>
+  - Get student's course <br>
+  - Get student's admission number <br>
+  - Get modules taken <br>
+  - Get GPA <br>
 2) Search by module name
   - Get number of students in taking the module
   - Get average marks of students taking the module

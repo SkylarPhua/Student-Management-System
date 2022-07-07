@@ -1,7 +1,7 @@
 # Student-Management-System <br>
-<h2>This was a project for my Java class assignment</h2> <br>
+<h2>This was a project for my Java class assignment</h2>
 <p>
-This was an assignment given to me when I was taking introduction to Java programming class in polytechnic
+This was an assignment given to me when I was taking introduction to Java programming class in polytechnic <br>
 </p>
 
 <h2>Features</h2>
